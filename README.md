@@ -54,9 +54,10 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 | Projeto | Tecnologia | Descrição |
 | :--- | :---: | :--- |
-| **[Quantum Go](LINK_DO_REPO)** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | Jogo de Realidade Aumentada focado em História da Física. Projeto de extensão universitária. |
+| **[Quantum Go](https://github.com/PAEG-ProjetosXR/QuantumGo)** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | Jogo de Realidade Aumentada focado em História da Física. Projeto de extensão universitária. |
+| **[MyBC Compiler](https://github.com/rolisola/Compiladores)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | *My Basic Calculator.* Compilador e calculadora que processa operações em bases **Hexadecimal** e **Octal**. |
 | **[Compressão de Imagens](LINK_DO_REPO)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | Algoritmo de compressão e gerenciamento de imagens binárias (Trabalho de ED2). |
-| **[TerraByte](LINK_DO_REPO)** | ![UML](https://img.shields.io/badge/UML-Modelagem-grey?style=flat-square) | Prototipação de sistema e documentação de Engenharia de Software (Diagramas e Requisitos). |
+| **[TerraByte]** | ![UML](https://img.shields.io/badge/UML-Modelagem-grey?style=flat-square) | Prototipação de sistema e documentação de Engenharia de Software (Diagramas e Requisitos). |
 
 ---
 
