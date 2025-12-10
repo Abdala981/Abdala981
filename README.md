@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<br>
+
 <p align="center">
   Estudante do 8º semestre de Ciência da Computação. Foco em desenvolvimento de software, linguagens de baixo nível e game development.
 </p>
@@ -55,8 +57,8 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 | Projeto | Tecnologia | Descrição |
 | :--- | :---: | :--- |
 | **[Quantum Go](https://github.com/PAEG-ProjetosXR/QuantumGo)** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | Jogo de Realidade Aumentada focado em História da Física. Projeto de extensão universitária. |
-| **[MyBC Compiler](https://github.com/rolisola/Compiladores)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | *My Basic Calculator.* Compilador e calculadora que processa operações em bases **Hexadecimal** e **Octal**. |
-| **[Compressão de Imagens](LINK_DO_REPO)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | Algoritmo de compressão e gerenciamento de imagens binárias (Trabalho de ED2). |
+| **[MyBC Compiler](https://github.com/rolisola/Compiladores)** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | *My Basic Calculator.* Compilador e calculadora que processa operações em bases **Hexadecimal** e **Octal**. |
+| **[Compressão de Imagens](LINK_DO_REPO)** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Algoritmo de compressão e gerenciamento de imagens binárias (Trabalho de ED2). |
 | **[TerraByte]** | ![UML](https://img.shields.io/badge/UML-Modelagem-grey?style=flat-square) | Prototipação de sistema e documentação de Engenharia de Software (Diagramas e Requisitos). |
 
 ---
@@ -77,7 +79,7 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 ### Stack Tecnológica
 
 **Baixo Nível & Core**
-<br>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -85,18 +87,18 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Game Dev & Engines**
-<br>
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=478cbf)
 
 **Web & Design (Estudando)**
-<br>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Ferramentas**
-<br>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
