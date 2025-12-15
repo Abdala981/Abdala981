@@ -22,14 +22,14 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 ### ⚔️ Quest Log: Web Development (Férias)
 
-> *Status Atual: Focando nos fundamentos de CSS e Box Model.*
+> *Status: console.log("Hello World!"); // Starting... *
 
-| Nível | Skill | Progresso (XP) |
-| :---: | :--- | :--- |
-| 🟢 | **HTML5 Semântico** | <img src="https://geps.dev/progress/90?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
-| 🟡 | **CSS3 (Flex/Grid)** | <img src="https://geps.dev/progress/40?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
-| 🔴 | **JavaScript (ES6+)** | <img src="https://geps.dev/progress/10?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
-| ⚪ | **React / Frameworks**| <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| Quest | Status | Progresso (XP) |
+| :--- | :---: | :--- |
+| **1. Fundamentos da Web** | 🟡 *Iniciando* | <img src="https://geps.dev/progress/5?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **2. HTML5 & Semântica** | 🔒 *Aguardando* | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **3. CSS3 (Flex/Grid)** | 🔒 *Aguardando* | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **4. JavaScript Core** | 🔒 *Aguardando* | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
 
 ---
 
