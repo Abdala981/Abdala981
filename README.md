@@ -18,9 +18,7 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 ---
 
-### 📂 Roadmap de Estudos: Web Development (Férias)
-
-### ⚔️ Quest Log: Web Development (Férias)
+### Roadmap de Estudos: Web Development (Férias)
 
 > *Status: console.log("Hello World!"); // Starting... *
 
