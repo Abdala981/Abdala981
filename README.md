@@ -20,35 +20,16 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 ### 📂 Roadmap de Estudos: Web Development (Férias)
 
-<details open>
-  <summary><strong>1. Fundamentos da Web [Em Andamento]</strong></summary>
-  <br>
-  
-  > *Iniciando os estudos aqui.*
-  
-  - [ ] Como a internet funciona (DNS, IP, Hosting)
-  - [ ] Protocolo HTTP/HTTPS
-  - [ ] Browsers e como eles renderizam páginas
-</details>
+### ⚔️ Quest Log: Web Development (Férias)
 
-<details>
-  <summary><strong>2. Front-End Básico [Próximos Passos]</strong></summary>
-  <br>
-  
-  - [ ] **HTML5 Semântico**
-  - [ ] **CSS3** (Box Model, Flexbox, Grid)
-  - [ ] **JavaScript** (Sintaxe ES6+, Manipulação de DOM)
-  - [ ] Consumo de APIs (Fetch/Axios)
-</details>
+> *Status Atual: Focando nos fundamentos de CSS e Box Model.*
 
-<details>
-  <summary><strong>3. Design & Ferramentas [Futuro]</strong></summary>
-  <br>
-  
-  - [x] Figma (Prototipação Básica)
-  - [ ] Git workflow para Web
-  - [ ] Deploy básico (Vercel/Netlify)
-</details>
+| Nível | Skill | Progresso (XP) |
+| :---: | :--- | :--- |
+| 🟢 | **HTML5 Semântico** | <img src="https://geps.dev/progress/90?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| 🟡 | **CSS3 (Flex/Grid)** | <img src="https://geps.dev/progress/40?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| 🔴 | **JavaScript (ES6+)** | <img src="https://geps.dev/progress/10?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| ⚪ | **React / Frameworks**| <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
 
 ---
 
