@@ -20,35 +20,18 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 ### 📂 Roadmap de Estudos: Web Development (Férias)
 
-<details open>
-  <summary><strong>1. Fundamentos da Web [Em Andamento]</strong></summary>
-  <br>
-  
-  > *Iniciando os estudos aqui.*
-  
-  - [ ] Como a internet funciona (DNS, IP, Hosting)
-  - [ ] Protocolo HTTP/HTTPS
-  - [ ] Browsers e como eles renderizam páginas
-</details>
-
-<details>
-  <summary><strong>2. Front-End Básico [Próximos Passos]</strong></summary>
-  <br>
-  
-  - [ ] **HTML5 Semântico**
-  - [ ] **CSS3** (Box Model, Flexbox, Grid)
-  - [ ] **JavaScript** (Sintaxe ES6+, Manipulação de DOM)
-  - [ ] Consumo de APIs (Fetch/Axios)
-</details>
-
-<details>
-  <summary><strong>3. Design & Ferramentas [Futuro]</strong></summary>
-  <br>
-  
-  - [x] Figma (Prototipação Básica)
-  - [ ] Git workflow para Web
-  - [ ] Deploy básico (Vercel/Netlify)
-</details>
+mermaid
+gantt
+    title Plano de Férias 2024/2025
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d/%m
+    section Base
+    HTTP & Internet :done, a1, 2024-12-01, 7d
+    HTML5 Semântico :active, a2, after a1, 10d
+    CSS3 (Flex/Grid):        a3, after a2, 10d
+    section Scripting
+    JavaScript ES6+ :        b1, after a3, 15d
+    Consumo de APIs :        b2, after b1, 7d
 
 ---
 
