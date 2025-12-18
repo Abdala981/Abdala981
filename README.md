@@ -24,7 +24,7 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 | Módulo | Progresso |
 | :--- | :--- |
-| **1. Programação Orientada a Objetos** | <img src="https://geps.dev/progress/100?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **1. Programação Orientada a Objetos** | <img src="https://geps.dev/progress/20?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
 | **2. Exceções, IO e Dependências** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
 | **3. Coleções e Streams (Java API)** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
 | **4. Desenvolvimento de APIs (Spring)** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
