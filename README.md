@@ -18,17 +18,18 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 ---
 
-### Roadmap de Estudos: Web Development (Férias)
+### ☕ Roadmap: Backend Java & AWS (DIO)
 
-> *Status: console.log("Hello World!"); // Starting... *
+`System.out.println("Starting Bootcamp...");`
 
-| Quest | Status | Progresso (XP) |
-| :--- | :---: | :--- |
-| **1. Fundamentos da Web** | 🟡 *Iniciando* | <img src="https://geps.dev/progress/5?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
-| **2. HTML5 & Semântica** | 🔒 *Aguardando* | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
-| **3. CSS3 (Flex/Grid)** | 🔒 *Aguardando* | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
-| **4. JavaScript Core** | 🔒 *Aguardando* | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
-
+| Módulo | Progresso |
+| :--- | :--- |
+| **1. Programação Orientada a Objetos** | <img src="https://geps.dev/progress/100?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **2. Exceções, IO e Dependências** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **3. Coleções e Streams (Java API)** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **4. Desenvolvimento de APIs (Spring)** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **5. Banco de Dados (SQL/JPA)** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
+| **6. Cloud Computing (AWS)** | <img src="https://geps.dev/progress/0?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" alt="Progress" /> |
 ---
 
 ### Projetos Recentes
