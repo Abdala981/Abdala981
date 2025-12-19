@@ -18,6 +18,20 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 ---
 
+
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abdala981&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdala981&layout=compact&theme=tokyonight&langs_count=8&hide_title=true"/>
+  </a>
+</div>
+
+---
+
 ### ☕ Roadmap: Backend Java & AWS (DIO)
 
 `System.out.println("Starting Bootcamp...");`
@@ -40,19 +54,6 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 | **[MyBC Compiler](https://github.com/rolisola/Compiladores)** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | *My Basic Calculator.* Compilador e calculadora que processa operações em bases **Hexadecimal** e **Octal**. |
 | **[Compressão de Imagens](LINK_DO_REPO)** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Algoritmo de compressão e gerenciamento de imagens binárias (Trabalho de ED2). |
 | **[TerraByte]** | ![UML](https://img.shields.io/badge/UML-Modelagem-grey?style=flat-square) | Prototipação de sistema e documentação de Engenharia de Software (Diagramas e Requisitos). |
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abdala981&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdala981&layout=compact&theme=tokyonight&langs_count=8&hide_title=true"/>
-  </a>
-</div>
 
 ---
 
