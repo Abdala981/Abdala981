@@ -47,10 +47,10 @@ Minha base é o desenvolvimento em C/C++ e a compreensão de sistemas operaciona
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasabdalam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abdala981&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabdalam&layout=compact&theme=tokyonight&langs_count=8&hide_title=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdala981&layout=compact&theme=tokyonight&langs_count=8&hide_title=true"/>
   </a>
 </div>
 
